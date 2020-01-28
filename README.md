@@ -38,7 +38,7 @@ origin. Add in the arguments for the commands and use them to push these changes
 ```
 git add README.md
 git commit -m "First changes"
-git push kcheng925 master //<name> <branch>
+git push origin master //<name> <branch>
 ```
 
 ## Mission 2
